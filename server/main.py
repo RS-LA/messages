@@ -17,6 +17,7 @@
 import webapp2
 from User import UserRequestHandler
 from Message import MessageRequestHandler
+from Response import ResponseRequestHandler
             
 class HelloWorldRequestHandler(webapp2.RequestHandler):
     def get(self):
@@ -26,5 +27,6 @@ class HelloWorldRequestHandler(webapp2.RequestHandler):
 app = webapp2.WSGIApplication([
     ('/', HelloWorldRequestHandler),
     (r'/users/(\d+)', UserRequestHandler),
-    (r'/messages/(\d+)', MessageRequestHandler)
+    (r'/users/(\d+)/messages', MessageRequestHandler),
+    (r'/users/(\d+)/messages/(\d+)/responses', ResponseRequestHandler)
 ], debug=True)
