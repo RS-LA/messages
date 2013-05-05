@@ -1,0 +1,31 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="653" measuredH="539" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="371" y="29" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::ButtonBar" x="396" y="428" w="233" h="29" measuredW="206" measuredH="29" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>inbox%26bm%3Binbox.bmml%26bm%3Binbox.bmml%26bm%3Binbox.bmml%2Coutbox%26bm%3Boutbox.bmml%26bm%3Boutbox.bmml%26bm%3Boutbox.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2225%2C399%2C92%2C428%22%20href%3D%22inbox.bmml%22%20alt%3D%22inbox%22%20id%3D%221_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2292%2C399%2C171%2C428%22%20href%3D%22outbox.bmml%22%20alt%3D%22outbox%22%20id%3D%221_1%22/%3E%0A</map>
+        <selectedIndex>2</selectedIndex>
+        <text>Inbox%2C%20Outbox%2C%20Settings</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="481" y="392" w="-1" h="-1" measuredW="63" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13576743</color>
+        <href>settings_unloggedin%26bm%3Bsettings_unloggedin.bmml%26bm%3Bsettings_unloggedin.bmml%26bm%3Bsettings_unloggedin.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22110%2C363%2C173%2C390%22%20href%3D%22settings_unloggedin.bmml%22%20alt%3D%22settings_unloggedin%22%20id%3D%223%22/%3E</map>
+        <text>Logout</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="420" y="158" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>EmoticonIcon%7Clarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="481" y="158" w="-1" h="-1" measuredW="74" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Girum%20Ibssa</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,38 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="719" measuredH="562" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="437" y="52" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="476" y="401" w="202" h="27" measuredW="171" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <href>outbox%26bm%3Boutbox.bmml%26bm%3Boutbox.bmml%26bm%3Boutbox.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2239%2C349%2C241%2C376%22%20href%3D%22outbox.bmml%22%20alt%3D%22outbox%22%20id%3D%221%22/%3E</map>
+        <text>Send%20to%20Facebook%20friends</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="476" y="159" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13576743</color>
+        <href>outbox%26bm%3Boutbox.bmml%26bm%3Boutbox.bmml%26bm%3Boutbox.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2239%2C107%2C103%2C134%22%20href%3D%22outbox.bmml%22%20alt%3D%22outbox%22%20id%3D%222%22/%3E</map>
+        <text>Cancel</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="476" y="207" w="-1" h="-1" measuredW="149" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Message%20%28100%20char%20limit%29%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextArea" x="478" y="229" w="200" h="140" measuredW="200" measuredH="140" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="476" y="443" w="202" h="27" measuredW="127" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2239%2C391%2C241%2C418%22%20href%3D%22outbox.bmml%22%20alt%3D%22outbox%22%20id%3D%226%22/%3E</map>
+        <text>Send%20to%20everyone</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
